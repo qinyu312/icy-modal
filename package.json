@@ -1,0 +1,17 @@
+{
+  "name": "icy-modal",
+  "version": "1.0.0",
+  "description": "Is custom pop-up component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modal",
+    "react",
+    "component",
+    "ui"
+  ],
+  "author": "ichthyornis",
+  "license": "ISC"
+}
