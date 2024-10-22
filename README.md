@@ -1,4 +1,4 @@
-# Ichthyornis Modal Component
+# Icy Modal Component
 
 A customizable and elegant modal component for React, inspired by **Ant Design**, with support for overlay, customizable title, two buttons (Confirm & Close),  The modal is centered horizontally and slightly offset vertically with a backdrop preventing interaction with other elements.
 
@@ -15,13 +15,13 @@ A customizable and elegant modal component for React, inspired by **Ant Design**
 To install this component in your React project, run the following command:
 
 ```bash
-npm install ichthyornis-modal
+npm install icy-modal
 ```
 
 or using yarn:
 
 ```bash
-yarn add ichthyornis-modal
+yarn add icy-modal
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ Below is an example of how to use the modal in a React project:
 
 ```jsx
 import React, { useState } from 'react';
-import Modal from './ichthyornis-modal';
+import Modal from './icy-modal';
 
 const App = () => {
   const [modalVisible, setModalVisible] = useState(false);
@@ -84,6 +84,6 @@ This project is licensed under the MIT License.
 
 ## Preview
 
-![预览](./assets/images/reviwe.png)
+![预览](https://github.com/qinyu312/icy-modal/blob/main/assets/preview-modal.png?raw=true)
 
 ---
